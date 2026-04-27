@@ -2,9 +2,9 @@
 # See https://go.k8s.io/owners for format documentation
 
 approvers:
-  nirrozenbaum
-  shaneutt
+- nirrozenbaum
+- shaneutt
 
 reviewers:
-  nirrozenbaum
-  shaneutt
+- nirrozenbaum
+- shaneutt
